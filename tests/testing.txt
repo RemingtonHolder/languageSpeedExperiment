@@ -1,0 +1,3 @@
+Command Used For Timing Data:
+
+Measure-Command {*/Exec Command Here*/}
